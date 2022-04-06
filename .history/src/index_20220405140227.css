@@ -14,7 +14,7 @@ header{
 
 main{
   display: flex;
-  justify-content: space-around;
+  /* justify-content: space-around; */
   flex-wrap: wrap;
   background-color: #f2f2f2;
   padding: 20px 150px;

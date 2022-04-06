@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  background-color: blueviolet;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  /* justify-content: space-around; */
+  /* align-items: center; */
+}
+
+footer{
+  background-color: blueviolet;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+}

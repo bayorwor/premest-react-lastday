@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Celestial",
+    "type": "spell",
+    "rarity": "common",
+    "text": "Choose a creature. Until the end of your next turn, whenever that creature deals damage to a player, it deals that much damage to the other player instead.",
+    "flavor": "\"I have seen the stars, and I have seen the moon. I have seen the sun, and I have seen the planets. I have seen the stars, and I have seen the moon. I have seen the sun, and I have seen the planets.\"",
+    "illustrator": "Jason Kang",
+    "rulings": [
+      {
+        "date": "2017-09-29",
+        "text": "If the creature is a planeswalker, it can't be affected by Celestial."
+      }
+    ],
+    "print_number": "10",
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHNtYXJ0cGhvbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "Celestial Purge",
+    "type": "sorcery",
+    "rarity": "rare",
+    "text": "Destroy all enchantments.\nDraw a card.",
+    "flavor": "\"The stars are calling to me. I must answer.\"",
+    "illustrator": "Seb McKinnon",
+    "rulings": [
+      {
+        "date": "2017-09-29",
+        "text": "Celestial Purge doesn't destroy enchantments that are on permanents that aren't on the battlefield."
+      }
+    ],
+    "print_number": "11",
+    "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439767&type=card"
+  },
+  {
+    "name": "Celestial Purge",
+    "type": "sorcery",
+    "rarity": "rare",
+    "text": "Destroy all enchantments.\nDraw a card.",
+    "flavor": "\"The stars are calling to me. I must answer.\"",
+    "illustrator": "Seb McKinnon",
+    "rulings": [
+      {
+        "date": "2017-09-29",
+        "text": "Celestial Purge doesn't destroy enchantments that are on permanents that aren't on the battlefield."
+      }
+    ],
+    "print_number": "11",
+    "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439767&type=card"
+  },
+  {
+    "name": "Celestial Purge",
+    "type": "sorcery",
+    "rarity": "rare",
+    "text": "Destroy all enchantments.\nDraw a card.",
+    "flavor": "\"The stars are calling to me. I must answer.\"",
+    "illustrator": "Seb McKinnon",
+    "rulings": [
+      {
+        "date": "2017-09-29",
+        "text": "Celestial Purge doesn't destroy enchantments that are on permanents that aren't on the battlefield."
+      }
+    ],
+    "print_number": "11",
+    "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439767&type=card"
+  },
+  {
+    "name": "Celestial Purge",
+    "type": "sorcery",
+    "rarity": "rare",
+    "text": "Destroy all enchantments.\nDraw a card.",
+    "flavor": "\"The stars are calling to me. I must answer.\"",
+    "illustrator": "Seb McKinnon",
+    "rulings": [
+      {
+        "date": "2017-09-29",
+        "text": "Celestial Purge doesn't destroy enchantments that are on permanents that aren't on the battlefield."
+      }
+    ],
+    "print_number": "11",
+    "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439767&type=card"
+  },
+  {
+    "name": "Celestial Purge",
+    "type": "sorcery",
+    "rarity": "rare",
+    "text": "Destroy all enchantments.\nDraw a card.",
+    "flavor": "\"The stars are calling to me. I must answer.\"",
+    "illustrator": "Seb McKinnon",
+    "rulings": [
+      {
+        "date": "2017-09-29",
+        "text": "Celestial Purge doesn't destroy enchantments that are on permanents that aren't on the battlefield."
+      }
+    ],
+    "print_number": "11",
+    "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439767&type=card"
+  }
+]

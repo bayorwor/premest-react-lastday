@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  background-color: blueviolet;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+}
+
+ul li{
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  background-color: blueviolet;
+}
+
+footer{
+  background-color: blueviolet;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+}
